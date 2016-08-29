@@ -25,6 +25,10 @@ Slack, a messaging app
 
 Please check the syllabus for the course outline and assignments. 
 
+#### SLIDES
+
+Class slides can be found in the Wiki section, [here.] (https://github.com/anilajalex/newschool_fall2016/wiki)
+
 #### PROJECTS: 
 
 ###### Midterm project 
