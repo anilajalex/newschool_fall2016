@@ -1,9 +1,5 @@
 # LLSJ 2241: Web Fundamentals
 
-Anila Alexander 
-
-alexanda@newschool.edu
-
 Section A, CRN: 6282
 
 63 Fifth Ave. Room L107
@@ -22,8 +18,6 @@ Access to a laptop computer
 A text editor (either Sublime Text or Atom) 
 
 A Github account
-
-Slack, a messaging app
 
 #### COURSE OUTLINE/SCHEDULE: 
 
