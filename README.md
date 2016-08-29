@@ -1,9 +1,13 @@
 # LLSJ 2241: Web Fundamentals
 
 Anila Alexander 
+
 alexanda@newschool.edu
+
 Section A, CRN: 6282
+
 63 Fifth Ave. Room L107
+
 Tuesdays from 6-7:50 pm
 
 #### COURSE DESCRIPTION: 
